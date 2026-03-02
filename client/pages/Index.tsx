@@ -61,7 +61,7 @@ export default function Index() {
       <footer className="border-t border-border bg-card/50 py-8 px-4 md:px-6">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-foreground/60 text-sm">
-            © 2024 Sanjib Biswal. All rights reserved.
+            © 2026 Sanjib Biswal. All rights reserved.
           </p>
           <p className="text-foreground/40 text-xs mt-2">
             Built with React, Node.js, and TailwindCSS
